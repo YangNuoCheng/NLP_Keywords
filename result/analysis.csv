@@ -1,0 +1,6 @@
+﻿id,model,accuracy,precision,dim,max_performance,max_id
+0,Jiagu,0.678,0.714,902,11,8
+1,LDA,0.104,0.109,183,5,59
+2,LSI,0.152,0.16,212,6,72
+3,TextRank,0.665,0.698,850,11,82
+4,TFIDF,0.678,0.712,903,11,8
